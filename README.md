@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jreynolds0962
+- 👋 Hi, I’m Joshua Reynolds
 - 👀 I’m interested in backend development, data science, and machine learning
 - 🌱 I’m currently learning ... Python (including NumPy, Pandas, and Pygame), Swift, and SQL
 - 💞️ I’m looking to collaborate on ...all things possible. I want to keep developing my knowledge and skills
